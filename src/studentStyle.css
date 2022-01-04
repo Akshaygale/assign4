@@ -1,0 +1,30 @@
+.heading{
+    font-size: xx-large;
+    font-weight: bolder;
+    position: absolute;
+    margin: 50px 0px 0px 50px;
+}
+.addStudentBtn{
+    border: 1px solid black;
+    padding: 6px 40px 6px 40px;
+    font-size: large;
+    position: relative;
+    top: 50px;
+    left: 1100px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+/* STUDENT TAbel */
+
+.TableInfo{
+    border: 2px solid grey;
+    margin: 100px 0px 0px 200px;
+    background-color: white;
+    width: 1000px;
+    border-radius: 15px;
+}
